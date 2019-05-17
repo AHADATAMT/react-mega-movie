@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Created with love by: `Huong-Kim`
   
-View online at: https://h-react-megamovie.netlify.com
+View online at: https://mtmovie.netlify.com/
   
 A site of now-playing and top-rated movies. Up-to-date using [The Movie DB API](https://developers.themoviedb.org)
 
